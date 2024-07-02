@@ -1,0 +1,9 @@
+<!-- this is page title -->
+<app-page-title></app-page-title>
+
+
+
+<!-- for task list -->
+<div class="flex flex-col mt-6">
+ <app-task-list [taskList]="taskList" (complete)="onComplete($event)" (important)="onImportant($event)" (delete)="DelTask($event)"> </app-task-list>
+</div>
