@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Run Project 
 
-Run `ng serve` for a dev server. Also dont forget to run `npm restart` cause this will start you json Server where data is stored The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Also dont forget to run `npm restart` cause this will start your json Server where data is stored The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
